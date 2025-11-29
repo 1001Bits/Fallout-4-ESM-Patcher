@@ -2,7 +2,7 @@
 
 
 
-\## Version 1.1.0
+\# Version 1.1.0
 
 
 
@@ -13,6 +13,6 @@ VR to 1.10.163/NG
 NG to 1.10.163
 
 
-License
+\#License
 
 This tool is provided as-is for the Fallout modding community under MIT license.
