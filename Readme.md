@@ -6,7 +6,9 @@
 
 
 
-A standalone tool to patch VR/1.10.163/Next-Gen Fallout4.esm files. This will delta patch your Fallout4.esm to a compatible format. Supported conversions are:
+A standalone tool to convert VR/1.10.163/Next-Gen Fallout4.esm files. This will delta patch your Fallout4.esm to a compatible format.
+
+Supported conversions are:
 
 VR to 1.10.163/NG
 1.10.163 to NG
