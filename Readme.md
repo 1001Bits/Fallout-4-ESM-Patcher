@@ -17,4 +17,4 @@ NG to 1.10.163
 
 \#License
 
-This tool is provided as-is for the Fallout modding community under MIT license.
+This tool is provided as-is for the Fallout modding community.
